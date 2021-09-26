@@ -1,8 +1,6 @@
 <p align="right" dir="rtl">ב״ה</p>
 <h3>Howdy! My name is Rachel, and this is my GitHub profile.</h3>
 
-I'm a freelance software engineer and consultant. I am available for work, including permanent hire.
-
 Instead of a long-winded spiel, here are a few tasks that you could complete.
 
 - You can browse [my blog](https://blog.delevingne.me);
@@ -12,4 +10,4 @@ Instead of a long-winded spiel, here are a few tasks that you could complete.
 - You can read [my résumé](https://www.delevingne.me/en/resume/);
 - You can [contact me](https://www.delevingne.me/en/contact/).
 
-Thanks for dropping by. Come back anytime.
+Thanks for dropping by. Have a blessed day.
